@@ -1,46 +1,57 @@
-# ShadowfetchStudio / Bob Corbin
+<div align="center">
 
-Linux-first apps, games and a distro. Everything here runs locally.
+# Shadowfetch Studio
 
-- **Site:** [shadowfetchlinux.org](https://www.shadowfetchlinux.org) for Shadowfetch Linux and open source, [shadowfetch.com](https://www.shadowfetch.com) for the Apple apps
-- **Mail:** linux@shadowfetchlinux.org
+**Linux. AI tools. Creative software. Games.**
 
-## Shadowfetch Linux
+Independent software studio building Shadowfetch Linux, desktop tools, and apps for iPhone, iPad, and Mac.
 
-[**shadowfetch-linux**](https://github.com/ShadowfetchStudio/shadowfetch-linux): a Debian testing + KDE Plasma 6 distro for running AI agents in inspectable Firebreak sandboxes. The current release is [4.1.0 Umbra](https://github.com/ShadowfetchStudio/shadowfetch-linux/releases/latest).
+[Explore Linux & open source](https://www.shadowfetchlinux.org) · [Explore Apple apps](https://www.shadowfetch.com) · [Browse repositories](https://github.com/ShadowfetchStudio?tab=repositories)
 
-## Linux apps
+</div>
 
-| App | What it does |
-| --- | --- |
-| [ShadowCode](https://github.com/ShadowfetchStudio/ShadowCode) | Desktop coding agent for your Codex, Claude Code, Cursor, Antigravity and Grok subscriptions, OpenRouter models, or local GGUF models |
-| [Shadow Convert](https://github.com/ShadowfetchStudio/Shadow-Convert) | Convert video, audio and images locally with FFmpeg and ImageMagick |
-| [Shadow Batch Processor](https://github.com/ShadowfetchStudio/Shadow-Batch-Processor) | Batch rename, convert, compress and strip metadata |
-| [Shadow Image Studio](https://github.com/ShadowfetchStudio/Shadow-Image-Studio) | Lightweight image editor: crop, resize, rotate, adjust, EXIF |
-| [Shadow Icon Factory](https://github.com/ShadowfetchStudio/Shadow-Icon-Factory) | iOS, macOS, Linux, Web and Android icon sets from one image |
-| [Shadow Ant Farm](https://github.com/ShadowfetchStudio/shadow-ant-farm) | Photorealistic glass ant farm that digs its own nest, built to stream for hours |
-| [Shadow Worm Farm](https://github.com/ShadowfetchStudio/shadow-worm-farm) | Photorealistic glass worm bin with red wigglers composting live, built to stream for hours |
-| [Shadow Creator Studio](https://github.com/ShadowfetchStudio/shadow-creator-studio) | Screen, webcam and voice recording for YouTube creators |
-| [Shadowfetch Voice Studio](https://github.com/ShadowfetchStudio/shadowfetch-voice-studio) | Local voice cloning and speech on an NVIDIA GPU |
-| [Shadow Mission Control](https://github.com/ShadowfetchStudio/shadow-mission-control) | Local HUD for CPU, GPU, disks, network and model servers |
+## Start here
 
-## Games (Godot 4.7, Linux)
+- **[Shadowfetch Linux](https://github.com/ShadowfetchStudio/shadowfetch-linux)** — a Debian-based KDE Plasma distribution with tools for AI agents, creative work, and local computing. [Releases & release notes](https://github.com/ShadowfetchStudio/shadowfetch-linux/releases/latest).
+- **[ShadowCode](https://github.com/ShadowfetchStudio/ShadowCode)** — a Linux desktop coding agent that brings subscription-based coding tools, OpenRouter, and local GGUF models into one interface. [Downloads](https://github.com/ShadowfetchStudio/ShadowCode/releases/latest).
+- **[Apple apps](https://www.shadowfetch.com)** — explore the studio's iPhone, iPad, and Mac catalog, with product information and support links.
 
-[Chess 3D](https://github.com/ShadowfetchStudio/shadow-chess-3d) ·
-[Checkers](https://github.com/ShadowfetchStudio/shadow-checkers) ·
-[Blackjack](https://github.com/ShadowfetchStudio/shadowfetch-blackjack) ·
-[Pool](https://github.com/ShadowfetchStudio/shadowfetch-pool) ·
-[Roulette](https://github.com/ShadowfetchStudio/shadowfetch-roulette) ·
-[Darts](https://github.com/ShadowfetchStudio/shadowfetch-darts) ·
-[Bowling](https://github.com/ShadowfetchStudio/shadowfetch-bowling) ·
-[Air Hockey](https://github.com/ShadowfetchStudio/shadowfetch-air-hockey) ·
-[Pinball](https://github.com/ShadowfetchStudio/shadowfetch-pinball) ·
-[Skee-Ball](https://github.com/ShadowfetchStudio/shadowfetch-skeeball)
+## Create & work
 
-Every game has a Linux download on its releases page. Casino games use fictional money only.
+- **[Shadow Creator Studio](https://github.com/ShadowfetchStudio/shadow-creator-studio)** — screen, webcam, and voice recording for Linux creators.
+- **[Shadowfetch Voice Studio](https://github.com/ShadowfetchStudio/shadowfetch-voice-studio)** — local voice cloning and speech generation on an NVIDIA GPU.
+- **[Shadow Convert](https://github.com/ShadowfetchStudio/Shadow-Convert)** — local video, audio, and image conversion with FFmpeg and ImageMagick.
+- **[Shadow Batch Processor](https://github.com/ShadowfetchStudio/Shadow-Batch-Processor)** — batch renaming, conversion, compression, and metadata removal.
+- **[Shadow Image Studio](https://github.com/ShadowfetchStudio/Shadow-Image-Studio)** — crop, resize, rotate, adjust, and export images.
+- **[Shadow Icon Factory](https://github.com/ShadowfetchStudio/Shadow-Icon-Factory)** — icon sets for desktop, mobile, and web from one source image.
+- **[Shadow Mission Control](https://github.com/ShadowfetchStudio/shadow-mission-control)** — a local dashboard for system resources and model servers.
 
-## Other projects
+## Play & explore
 
-- [dna-engine](https://github.com/ShadowfetchStudio/dna-engine): offline genomics workbench for macOS
-- [agent-news-bot](https://github.com/ShadowfetchStudio/agent-news-bot): local news desk for AI agents
-- [devmemes](https://github.com/ShadowfetchStudio/devmemes) and [videobot](https://github.com/ShadowfetchStudio/videobot): small Python desktop tools
+**Board games:** [Chess 3D](https://github.com/ShadowfetchStudio/shadow-chess-3d) · [Checkers](https://github.com/ShadowfetchStudio/shadow-checkers)
+
+**Arcade & table games:** [Pool](https://github.com/ShadowfetchStudio/shadowfetch-pool) · [Darts](https://github.com/ShadowfetchStudio/shadowfetch-darts) · [Bowling](https://github.com/ShadowfetchStudio/shadowfetch-bowling) · [Air Hockey](https://github.com/ShadowfetchStudio/shadowfetch-air-hockey) · [Pinball](https://github.com/ShadowfetchStudio/shadowfetch-pinball) · [Skee-Ball](https://github.com/ShadowfetchStudio/shadowfetch-skeeball)
+
+**Card & casino games:** [Blackjack](https://github.com/ShadowfetchStudio/shadowfetch-blackjack) · [Roulette](https://github.com/ShadowfetchStudio/shadowfetch-roulette) — fictional chips and money only.
+
+**Living simulations:** [Shadow Ant Farm](https://github.com/ShadowfetchStudio/shadow-ant-farm) · [Shadow Worm Farm](https://github.com/ShadowfetchStudio/shadow-worm-farm)
+
+Find Linux downloads, requirements, and release notes in each game's repository.
+
+<details>
+<summary><strong>More from the studio</strong></summary>
+
+- [dna-engine](https://github.com/ShadowfetchStudio/dna-engine) — an offline genomics workbench for macOS.
+- [agent-news-bot](https://github.com/ShadowfetchStudio/agent-news-bot) — a local news desk for AI agents.
+- [devmemes](https://github.com/ShadowfetchStudio/devmemes) — a desktop meme generator for developers.
+- [videobot](https://github.com/ShadowfetchStudio/videobot) — a Python desktop video-download tool.
+
+</details>
+
+## Support & contributions
+
+For installation and usage, start with the project's README and release notes. Report reproducible bugs or propose features in that repository's Issues; use its contribution and security guidance when available. For Apple apps, use the support links on [shadowfetch.com](https://www.shadowfetch.com).
+
+**Linux & open-source contact:** [linux@shadowfetchlinux.org](mailto:linux@shadowfetchlinux.org)
+
+Built by Robert Corbin under Shadowfetch Studio. Each repository documents its own license, requirements, and release status.
