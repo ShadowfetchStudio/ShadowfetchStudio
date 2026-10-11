@@ -6,7 +6,7 @@
 
 Independent software studio building Shadowfetch Linux, desktop tools, and apps for iPhone, iPad, and Mac.
 
-[Explore Linux & open source](https://www.shadowfetchlinux.org) · [Explore Apple apps](https://www.shadowfetch.com) · [Browse repositories](https://github.com/ShadowfetchStudio?tab=repositories)
+[Studio website · shadowfetch.com](https://shadowfetch.com) · [Linux & open source](https://www.shadowfetchlinux.org) · [Browse repositories](https://github.com/ShadowfetchStudio?tab=repositories)
 
 </div>
 
