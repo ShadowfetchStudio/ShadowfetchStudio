@@ -48,6 +48,12 @@ Find Linux downloads, requirements, and release notes in each game's repository.
 
 </details>
 
+## Follow the studio
+
+[TikTok](https://www.tiktok.com/@shadowfetchstudio) · [Instagram](https://www.instagram.com/shadowfetchstudio/) · [Threads](https://www.threads.com/@shadowfetchstudio) · [Facebook](https://www.facebook.com/shadowfetchstudio) · [X / Twitter](https://x.com/Shadowfetch)
+
+**@shadowfetchstudio** on TikTok, Instagram, Threads, and Facebook. **@Shadowfetch** on X / Twitter.
+
 ## Support & contributions
 
 For installation and usage, start with the project's README and release notes. Report reproducible bugs or propose features in that repository's Issues; use its contribution and security guidance when available. For Apple apps, use the support links on [shadowfetch.com](https://www.shadowfetch.com).
