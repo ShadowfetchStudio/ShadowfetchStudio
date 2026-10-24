@@ -6,7 +6,7 @@
 
 Independent software studio building Shadowfetch Linux, desktop tools, and apps for iPhone, iPad, and Mac.
 
-[Studio website · shadowfetch.com](https://shadowfetch.com) · [Linux & open source](https://www.shadowfetchlinux.org) · [Browse repositories](https://github.com/ShadowfetchStudio?tab=repositories)
+[Studio website · shadowfetchstudio.com](https://shadowfetchstudio.com) · [Linux & open source](https://www.shadowfetchlinux.org) · [Browse repositories](https://github.com/ShadowfetchStudio?tab=repositories)
 
 </div>
 
@@ -14,6 +14,7 @@ Independent software studio building Shadowfetch Linux, desktop tools, and apps 
 
 - **[Shadowfetch Linux](https://github.com/ShadowfetchStudio/shadowfetch-linux)** — a Debian-based KDE Plasma distribution with tools for AI agents, creative work, and local computing. [Releases & release notes](https://github.com/ShadowfetchStudio/shadowfetch-linux/releases/latest).
 - **[ShadowCode](https://github.com/ShadowfetchStudio/ShadowCode)** — a Linux desktop coding agent that brings subscription-based coding tools, OpenRouter, and local GGUF models into one interface. [Downloads](https://github.com/ShadowfetchStudio/ShadowCode/releases/latest).
+- **[AI People Wiki](https://aipeoplewiki.com)** — who's building AI, where they work, and what they work on.
 - **[Apple apps](https://www.shadowfetch.com)** — explore the studio's iPhone, iPad, and Mac catalog, with product information and support links.
 
 ## Create & work
