@@ -13,7 +13,7 @@ Independent software studio building Shadowfetch Linux, desktop tools, and apps 
 ## Start here
 
 - **[Shadowfetch Linux](https://github.com/ShadowfetchStudio/shadowfetch-linux)** — a Debian-based KDE Plasma distribution with tools for AI agents, creative work, and local computing. [Releases & release notes](https://github.com/ShadowfetchStudio/shadowfetch-linux/releases/latest).
-- **[ShadowCode](https://github.com/ShadowfetchStudio/ShadowCode)** — a Linux desktop coding agent that brings subscription-based coding tools, OpenRouter, and local GGUF models into one interface. [Downloads](https://github.com/ShadowfetchStudio/ShadowCode/releases/latest).
+- **[ShadowCode](https://github.com/ShadowfetchStudio/ShadowCode)** — a Linux and macOS desktop coding agent that brings subscription-based coding tools, OpenRouter, and local GGUF models into one interface. [shadowcode.org](https://shadowcode.org) · [Downloads](https://github.com/ShadowfetchStudio/ShadowCode/releases/latest).
 - **[AI People Wiki](https://aipeoplewiki.com)** — who's building AI, where they work, and what they work on.
 - **[Apple apps](https://www.shadowfetch.com)** — explore the studio's iPhone, iPad, and Mac catalog, with product information and support links.
 
@@ -46,6 +46,8 @@ Find Linux downloads, requirements, and release notes in each game's repository.
 - [agent-news-bot](https://github.com/ShadowfetchStudio/agent-news-bot) — a local news desk for AI agents.
 - [devmemes](https://github.com/ShadowfetchStudio/devmemes) — a desktop meme generator for developers.
 - [videobot](https://github.com/ShadowfetchStudio/videobot) — a Python desktop video-download tool.
+- [ShadowChat](https://github.com/ShadowfetchStudio/ShadowChat) — an AIM-style macOS group chat for your coding agents.
+- [Chestyshadows](https://github.com/ShadowfetchStudio/Chestyshadows) — a native macOS chess game.
 
 </details>
 
@@ -60,5 +62,7 @@ Find Linux downloads, requirements, and release notes in each game's repository.
 For installation and usage, start with the project's README and release notes. Report reproducible bugs or propose features in that repository's Issues; use its contribution and security guidance when available. For Apple apps, use the support links on [shadowfetch.com](https://www.shadowfetch.com).
 
 **Linux & open-source contact:** [linux@shadowfetchlinux.org](mailto:linux@shadowfetchlinux.org)
+
+Like the open-source work? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
 
 Built by Robert Corbin under Shadowfetch Studio. Each repository documents its own license, requirements, and release status.
